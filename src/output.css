@@ -548,96 +548,44 @@ video {
   margin-left: 126.09px;
 }
 
-.mr-\[460\.61px\] {
-  margin-right: 460.61px;
-}
-
-.mt-\[28\.85px\] {
-  margin-top: 28.85px;
-}
-
-.ml-\[1274\.63px\] {
-  margin-left: 1274.63px;
-}
-
-.mt-\[20\.39px\] {
-  margin-top: 20.39px;
-}
-
-.mb-\[888\.1px\] {
-  margin-bottom: 888.1px;
-}
-
-.ml-\[500\.09px\] {
-  margin-left: 500.09px;
-}
-
-.ml-\[1000\.09px\] {
-  margin-left: 1000.09px;
-}
-
-.mt-\[10\.85px\] {
-  margin-top: 10.85px;
-}
-
-.mt-\[5\.85px\] {
-  margin-top: 5.85px;
-}
-
-.mt-\[1px\] {
-  margin-top: 1px;
-}
-
-.mt-\[-20px\] {
-  margin-top: -20px;
-}
-
-.mt-\[-25px\] {
-  margin-top: -25px;
-}
-
-.mt-\[-30px\] {
-  margin-top: -30px;
-}
-
-.mt-\[-23px\] {
-  margin-top: -23px;
-}
-
-.mt-\[-35px\] {
-  margin-top: -35px;
-}
-
-.mt-\[-40px\] {
-  margin-top: -40px;
-}
-
-.mt-\[-43px\] {
-  margin-top: -43px;
-}
-
-.mt-\[-42px\] {
-  margin-top: -42px;
-}
-
-.mt-\[-45px\] {
-  margin-top: -45px;
-}
-
-.ml-\[950px\] {
-  margin-left: 950px;
-}
-
-.ml-\[980px\] {
-  margin-left: 980px;
-}
-
 .ml-\[970px\] {
   margin-left: 970px;
 }
 
 .mr-\[34\.39px\] {
   margin-right: 34.39px;
+}
+
+.mr-\[460\.61px\] {
+  margin-right: 460.61px;
+}
+
+.mt-\[-45px\] {
+  margin-top: -45px;
+}
+
+.mt-\[28\.85px\] {
+  margin-top: 28.85px;
+}
+
+.mt-\[20\.39px\] {
+  margin-top: 20.39px;
+}
+
+.mt-\[271\.66px\] {
+  margin-top: 271.66px;
+}
+
+.ml-\[114\.63\] {
+  margin-left: 114.63;
+}
+
+.mt-\[179\.96px\] {
+  margin-top: 179.96px;
+}
+
+.ml-\[114\.63px\] {
+  margin-left: 114.63px;
 }
 
 .flex {
@@ -665,22 +613,18 @@ video {
   border-color: rgb(32 177 90 / var(--tw-border-opacity));
 }
 
-.bg-\[\#D7F5DC\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(215 245 220 / var(--tw-bg-opacity));
-}
-
 .bg-\[\#20B15A\] {
   --tw-bg-opacity: 1;
   background-color: rgb(32 177 90 / var(--tw-bg-opacity));
 }
 
-.bg-fixed {
-  background-attachment: fixed;
+.bg-\[\#D7F5DC\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(215 245 220 / var(--tw-bg-opacity));
 }
 
-.pb-\[888\.1px\] {
-  padding-bottom: 888.1px;
+.bg-fixed {
+  background-attachment: fixed;
 }
 
 .text-\[18\.34px\] {
@@ -691,12 +635,20 @@ video {
   font-size: 22.925px;
 }
 
+.text-\[57\.313px\] {
+  font-size: 57.313px;
+}
+
 .font-bold {
   font-weight: 700;
 }
 
 .font-medium {
   font-weight: 500;
+}
+
+.font-\[57\.313px\] {
+  font-weight: 57.313px;
 }
 
 .text-\[\#F55F1D\] {
