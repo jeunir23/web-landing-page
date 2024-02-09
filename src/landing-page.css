@@ -1,3 +1,22 @@
 #spacing {
     margin-right: 34.39px;
 }
+
+
+.menu {
+    position: relative;
+}
+
+.submenu {
+    opacity: 0;
+    pointer-events: none;
+    position:absolute;
+    top: 50%;
+    left: 0;
+}
+
+.menu:hover .submenu {
+    top: 100%;
+    opacity: 1;
+    pointer-events: ;
+}

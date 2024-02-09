@@ -544,6 +544,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.mb-\[38\.57px\] {
+  margin-bottom: 38.57px;
+}
+
 .mb-\[42\.41px\] {
   margin-bottom: 42.41px;
 }
@@ -584,32 +588,12 @@ video {
   margin-top: 28.85px;
 }
 
-.mb-\[38\.57px\] {
-  margin-bottom: 38.57px;
-}
-
-.ml-\[131\.82px\] {
-  margin-left: 131.82px;
-}
-
-.mt-\[51\.17\[x\]\] {
-  margin-top: 51.17[x];
-}
-
-.mt-\[51\.17px\] {
-  margin-top: 51.17px;
-}
-
-.mt-\[200\.17px\] {
-  margin-top: 200.17px;
-}
-
-.mr-\[131\.82px\] {
-  margin-right: 131.82px;
-}
-
 .flex {
   display: flex;
+}
+
+.h-\[137\.55px\] {
+  height: 137.55px;
 }
 
 .h-\[50\.925px\] {
@@ -620,10 +604,6 @@ video {
   height: 79.85001px;
 }
 
-.h-\[137\.55px\] {
-  height: 137.55px;
-}
-
 .w-\[106\.601px\] {
   width: 106.601px;
 }
@@ -632,62 +612,8 @@ video {
   width: 200.77499px;
 }
 
-.w-\[1650\.60\] {
-  width: 1650.60;
-}
-
-.w-fit {
-  width: -moz-fit-content;
-  width: fit-content;
-}
-
-.w-max {
-  width: -moz-max-content;
-  width: max-content;
-}
-
-.w-\[2000px\] {
-  width: 2000px;
-}
-
-.w-\[1650\.60px\] {
-  width: 1650.60px;
-}
-
-.w-\[1600\.60px\] {
-  width: 1600.60px;
-}
-
-.w-\[1500\.60px\] {
-  width: 1500.60px;
-}
-
-.w-\[1550\.60px\] {
-  width: 1550.60px;
-}
-
-.w-\[1530\.60px\] {
-  width: 1530.60px;
-}
-
-.w-\[1510\.60px\] {
-  width: 1510.60px;
-}
-
-.w-\[1520\.60px\] {
-  width: 1520.60px;
-}
-
 .w-\[max\] {
   width: max;
-}
-
-.w-\[fit\] {
-  width: fit;
-}
-
-.transform {
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
 .rounded-\[11\.463px\] {
@@ -732,30 +658,6 @@ video {
 
 .pt-\[51\.17px\] {
   padding-top: 51.17px;
-}
-
-.pr-\[131\.82px\] {
-  padding-right: 131.82px;
-}
-
-.pr-\[100\.82px\] {
-  padding-right: 100.82px;
-}
-
-.pl-\[-131\.82px\] {
-  padding-left: -131.82px;
-}
-
-.pr-\[90\.82px\] {
-  padding-right: 90.82px;
-}
-
-.pl-\[20\.82px\] {
-  padding-left: 20.82px;
-}
-
-.pr-\[20\.82px\] {
-  padding-right: 20.82px;
 }
 
 .text-\[18\.34px\] {
