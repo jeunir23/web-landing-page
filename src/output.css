@@ -544,6 +544,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.fixed {
+  position: fixed;
+}
+
 .mb-\[38\.57px\] {
   margin-bottom: 38.57px;
 }
@@ -586,6 +590,66 @@ video {
 
 .mt-\[28\.85px\] {
   margin-top: 28.85px;
+}
+
+.ml-\[805\.31px\] {
+  margin-left: 805.31px;
+}
+
+.mt-\[-40px\] {
+  margin-top: -40px;
+}
+
+.mt-\[-50px\] {
+  margin-top: -50px;
+}
+
+.mt-\[-55px\] {
+  margin-top: -55px;
+}
+
+.mt-\[-60px\] {
+  margin-top: -60px;
+}
+
+.ml-\[500px\] {
+  margin-left: 500px;
+}
+
+.ml-\[50px\] {
+  margin-left: 50px;
+}
+
+.ml-\[700\.16px\] {
+  margin-left: 700.16px;
+}
+
+.mt-\[500px\] {
+  margin-top: 500px;
+}
+
+.mt-\[-800px\] {
+  margin-top: -800px;
+}
+
+.mt-\[-700px\] {
+  margin-top: -700px;
+}
+
+.mt-\[-480px\] {
+  margin-top: -480px;
+}
+
+.mt-\[-520px\] {
+  margin-top: -520px;
+}
+
+.mt-\[-540px\] {
+  margin-top: -540px;
+}
+
+.mt-\[-545px\] {
+  margin-top: -545px;
 }
 
 .flex {
@@ -658,6 +722,10 @@ video {
 
 .pt-\[51\.17px\] {
   padding-top: 51.17px;
+}
+
+.pl-\[500px\] {
+  padding-left: 500px;
 }
 
 .text-\[18\.34px\] {
