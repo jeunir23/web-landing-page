@@ -876,3 +876,23 @@ video {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
+
+.hover\:bg-sky-700:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(3 105 161 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-white:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-\[\#30db74\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(48 219 116 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-\[\#2ed872\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(46 216 114 / var(--tw-bg-opacity));
+}
