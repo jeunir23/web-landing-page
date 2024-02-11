@@ -18,5 +18,18 @@
 .menu:hover .submenu {
     top: 100%;
     opacity: 1;
-    pointer-events: ;
+    pointer-events:
+}
+
+.background {
+    width: 770.28px;
+    height: 646.485px;
+    flex-shrink: 0;
+    background: url(Header\ Lady\ 1.svg), no-repeat;
+    margin-left: 600.16px;
+}
+
+.socials {
+    padding-left: 131.82px;
+    padding-top: 51.17px;
 }
