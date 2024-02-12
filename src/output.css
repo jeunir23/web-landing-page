@@ -701,3 +701,23 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(202 244 209 / var(--tw-bg-opacity));
 }
+
+.hover\:bg-\[\#3edb7d\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(62 219 125 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-\[\#46d580\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(70 213 128 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-\[\#60da91\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(96 218 145 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-\[\#20bf60\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(32 191 96 / var(--tw-bg-opacity));
+}
