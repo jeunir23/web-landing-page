@@ -15,6 +15,12 @@
     left: 0;
 }
 
+.menu:hover .submenu {
+    top: 100%;
+    opacity: 1;
+    pointer-events:
+}
+
 .background {
     width: 770.28px;
     height: 646.485px;
